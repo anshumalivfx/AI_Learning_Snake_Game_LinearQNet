@@ -25,7 +25,7 @@ To run the Snake AI project, follow these steps:
 3. Run the Snake AI program:
 
    ```bash
-   python main.py
+   python agent.py
    ```
 
 ## Components
