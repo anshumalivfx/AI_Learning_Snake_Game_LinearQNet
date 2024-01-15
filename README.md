@@ -64,7 +64,7 @@ Feel free to tweak the hyperparameters in the `config.py` file to experiment wit
 
 ```python
 # Example hyperparameters in config.py
-learning_rate = 0.01
+learning_rate = 0.001
 gamma = 0
 epsilon = 0
 ```
